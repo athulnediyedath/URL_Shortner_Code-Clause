@@ -1,6 +1,6 @@
 # URL-Shortner
 
-## This is my first internship tak in CodeClause
+## This is my first internship task in CodeClause
 
 👉 I built a tool that allowed users to set alarms and trigger them using Python's time modules. 
 
